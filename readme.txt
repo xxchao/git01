@@ -10,3 +10,8 @@ test01
 版本回退
 阅读：221287
 
+################################
+git has a mutable index called stage
+git tracks changes
+
+
